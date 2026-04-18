@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Blackjack Game</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="game-container">
+        <h1>Blackjack</h1>
+        
+        <div id="timer-display">01:00</div>
+        
+        <p id="message-el">Want to play a round?</p>
+
+        <div id="cards-container" class="hand">
+            <p id="cards-el">Cards: </p>
+        </div>
+        
+        <p id="sum-el">Sum: </p>
+
+        <div class="controls">
+            <button id="start-game" onclick="startGame()">START GAME</button>
+            <button id="new-card" onclick="newCard()">NEW CARD</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
