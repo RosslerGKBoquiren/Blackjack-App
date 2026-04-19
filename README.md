@@ -3,6 +3,9 @@
 🃏 Blackjack Countdown Challenge
 A fast-paced, web-based Blackjack game built with HTML, CSS, and Vanilla JavaScript. This version includes a high-stakes countdown timer that forces players to make quick decisions before the clock hits zero!
 
+Link:
+[https://rosslergkboquiren.github.io/Blackjack-App/]
+
 🚀 Features
 Real-time Countdown: A 60-second digital timer adds pressure to every move.
 
@@ -45,6 +48,7 @@ Open index.html in any modern web browser to start playing.
 This project was developed with the assistance of Gemini, an AI model by Google. The AI helped brainstorm the countdown timer implementation, debug the card-rendering loop, and refine the CSS for a more authentic game-room aesthetic.
 
 📝 Future Improvements
+
 [ ] Add a "Dealer" AI to play against.
 
 [ ] Include a betting system with virtual chips.
